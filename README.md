@@ -1,2 +1,1 @@
-# react-shorten-my-link
-A React web application designed to shorten URL's. 
+![alt text](https://i.imgur.com/h2Hopi6.png, "URL Shortener")
